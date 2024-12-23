@@ -1,6 +1,4 @@
 % Use "T" in kelvin 
-
-
 clear all
 clc
 T=26.7;
